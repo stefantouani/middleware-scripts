@@ -1,4 +1,5 @@
-# .bashrc
+
+# .bashrc  hh
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
